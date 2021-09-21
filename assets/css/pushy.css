@@ -11,21 +11,21 @@
     height: 100%;
     top: 0;
     z-index: 9999;
-    background: #333332;
+    background: #3ad6d6f8;
     font-size: 0.9em;
     font-weight: bold;
-    -webkit-box-shadow: inset -10px 0 6px -9px rgba(0, 0, 0, .7);
-    -moz-box-shadow: inset -10px 0 6px -9px rgba(0, 0, 0, .7);
-    box-shadow: inset -10px 0 6px -9px rgba(0, 0, 0, .7);
+    -webkit-box-shadow: inset -10px 0 6px -9px #36c4c5;
+    -moz-box-shadow: inset -10px 0 6px -9px #36c4c5;
+    box-shadow: inset -10px 0 6px -9px #36c4c5;
     overflow: auto;
     -webkit-overflow-scrolling: touch; /* enables momentum scrolling in iOS overflow elements */
 }
 
 .pushy a{
     display: block;
-    color: #b3b3b1;
+    color: #000000;
     padding: 15px 30px;
-    border-bottom: 1px solid rgba(0, 0, 0, .1);
+    border-bottom: 1px solid #36c4c5;
     border-top: 1px solid rgba(255, 255, 255, .1);
     text-decoration: none;
 }
